@@ -1,0 +1,14 @@
+jupyterlab
+numpy
+matplotlib
+pillow
+opencv-python
+transformers==4.37.2
+ipywidgets
+decord
+groq
+accelerate
+bitsandbytes
+peft
+einops
+sentencepiece
